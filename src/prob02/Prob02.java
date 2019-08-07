@@ -21,6 +21,7 @@ public class Prob02 {
 		}
 		/* 출력 */
 		System.out.println("총 합은 " + sum);
+		System.out.println("평균은 " + sum /5);
 		
 		/* 자원정리 */
 		scanner.close();
